@@ -1,0 +1,13 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "camelcase": ["error", {
+      "properties": "always",
+      "ignoreDestructuring": false,
+      "ignoreImports": true
+    }],
+    "quotes": ["error", "single", {
+      "allowTemplateLiterals": true
+    }]
+  }
+}
