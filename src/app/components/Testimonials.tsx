@@ -11,7 +11,7 @@ import { testimonials } from '@/constant'
 
 function Testimonials() {
   return (
-    <section className='container max-w-full bg-primary py-20 text-white'>
+    <section className='container max-w-full bg-primary py-20 text-white' id='testimoni'>
       <Swiper
         slidesPerView={1}
         spaceBetween={30}

@@ -11,13 +11,13 @@ const config: Config = {
       container: {
         center: true,
         padding: {
-          DEFAULT: '24px',
-          md: '40px',
-          lg: '60px'
+          DEFAULT: '3rem',
+          md: '4rem',
+          lg: '10rem'
         }
       },
       colors: {
-        'primary': '#0D45E1',
+        'primary': '#F0A835',
         'dark': '#333539'
       },
       fontFamily: {
